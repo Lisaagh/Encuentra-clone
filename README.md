@@ -9,7 +9,7 @@
 Para inicializar el repositorio localmente
 
 ```
-git clone https://github.com/Quirozdev/Encuentra.git
+git clone https://github.com/Lisaagh/Encuentra-clone
 
 cd Encuentra
 ```
